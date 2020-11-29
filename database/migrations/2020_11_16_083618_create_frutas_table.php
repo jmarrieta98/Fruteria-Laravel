@@ -16,6 +16,7 @@ class CreateFrutasTable extends Migration
         Schema::create('frutas', function (Blueprint $table) {
             $table->id();
             $table->string('nombre',255);
+            $table->string('slug',255);
             $table->string('descripcion',1500)->nullable();
             $table->integer('precio');
             $table->date('fecha');

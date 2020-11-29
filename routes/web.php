@@ -22,17 +22,17 @@ Route::get('fruteria/listado', [FruteriaController::class, 'showall'])->name('fr
 Route::resource('fruteria',FruteriaController::class)->parameters(['fruteria' => 'fruta']);
 
 
-//Route::get('fruteria',[FruteriaController::class , 'index'])->name('fruteria.index');
-//
-//Route::get('fruteria/crear', [FruteriaController::class, 'create'])->name('fruteria.create');
-//
-//
-//Route::post('fruteria/guardar',[FruteriaController::class , 'store'])->name('fruteria.store');
-//
-//Route::get('fruteria/{fruta}', [FruteriaController::class, 'show'])->name('fruteria.show');
-//
-//Route::get('fruteria/{fruta}/edit', [FruteriaController::class, 'edit'])->name('fruteria.edit');
-//
-//Route::put('fruteria/{fruta}',[FruteriaController::class , 'update'])->name('fruteria.update');
-//
-//Route::delete('fruteria/{fruta}',[FruteriaController::class, 'destroy'])->name('fruteria.destroy');
+// Route::get('fruteria',[FruteriaController::class , 'index'])->name('fruteria.index');
+
+// Route::get('fruteria/crear', [FruteriaController::class, 'create'])->name('fruteria.create');
+
+
+// Route::post('fruteria/guardar',[FruteriaController::class , 'store'])->name('fruteria.store');
+
+// Route::get('fruteria/{fruta}', [FruteriaController::class, 'show'])->name('fruteria.show');
+
+// Route::get('fruteria/{fruta}/edit', [FruteriaController::class, 'edit'])->name('fruteria.edit');
+
+// Route::put('fruteria/{fruta}',[FruteriaController::class , 'update'])->name('fruteria.update');
+
+// Route::delete('fruteria/{fruta}',[FruteriaController::class, 'destroy'])->name('fruteria.destroy');

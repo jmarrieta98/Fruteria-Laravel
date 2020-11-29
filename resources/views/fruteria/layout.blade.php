@@ -21,8 +21,7 @@
 @yield('contenido')
 
 <footer>
+
     <p>Página creada por José Manuel Arrieta Soto con Laravel</p>
 
 </footer>
-
-

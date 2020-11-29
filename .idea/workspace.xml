@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f711cb4-c71e-4ab6-b20f-4e6ae1ef9273" name="Default Changelist" comment="" />
+    <list default="true" id="3f711cb4-c71e-4ab6-b20f-4e6ae1ef9273" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Fruta.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Fruta.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/FrutaFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/FrutaFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_16_083618_create_frutas_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_16_083618_create_frutas_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/fruteria/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/fruteria/index.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +16,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -121,6 +130,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1kHnrJRRlIFpr9rVGOKh6V3f5GP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -162,7 +172,16 @@
       <workItem from="1605732637282" duration="1791000" />
       <workItem from="1605789099659" duration="813000" />
       <workItem from="1605793862729" duration="1741000" />
-      <workItem from="1605862625019" duration="3062000" />
+      <workItem from="1605862625019" duration="6833000" />
+      <workItem from="1605895663048" duration="528000" />
+      <workItem from="1605897582502" duration="4522000" />
+      <workItem from="1606043711270" duration="6122000" />
+      <workItem from="1606122568820" duration="1824000" />
+      <workItem from="1606302252266" duration="3010000" />
+      <workItem from="1606406496841" duration="190000" />
+      <workItem from="1606469366554" duration="326000" />
+      <workItem from="1606471141115" duration="3399000" />
+      <workItem from="1606652725107" duration="17000" />
     </task>
     <servers />
   </component>

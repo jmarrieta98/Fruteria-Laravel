@@ -12,4 +12,9 @@ class Fruta extends Model
     //protected $fillable = ['nombre','descripcion','precio','fecha'];
 
     protected $guarded = ['status'];
+
+    public function getRouteKeyName()
+    {
+        return 'slug';
+    }
 }
