@@ -29,7 +29,7 @@ El crud tiene una serie de motedos que son los siguiente:
 
 ## Directorios de laravel
 
-- [Modelo de fruta](https://github.com/jmarrieta98/Fruteria-Laravel/tree/master/App/Models)
-- [Controlador de fruta]((https://github.com/jmarrieta98/Fruteria-Laravel/tree/master/App/Http/Controllers)
+- [Modelo de fruta](https://github.com/jmarrieta98/Fruteria-Laravel/tree/master/app/Models)
+- [Controlador de fruta](https://github.com/jmarrieta98/Fruteria-Laravel/tree/master/app/Http/Controllers)
 - [Rutas de los controladores](https://github.com/jmarrieta98/Fruteria-Laravel/tree/master/routes.web.php)
 - [Vista de las fruteria y los código html y css de esta](https://github.com/jmarrieta98/Fruteria-Laravel/tree/master/resources/views)
