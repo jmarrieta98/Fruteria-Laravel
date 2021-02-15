@@ -7,17 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Sobre el proyecto
+# Sobre el proyecto
 
 Este proyecto consiste en una mini aplicación de fruteria que contiene lo siguiente:
 
-- CRUD de frutas
+- **CRUD** de frutas
 - Base de datos de frutas
 - Datos de ejemplos (Faker) de fruta
 - Páginas para la visualización de frutas
 
 
-## Sobre el crud
+## Sobre el **CRUD**
 
 El crud tiene una serie de motedos que son los siguiente:
 
@@ -29,7 +29,7 @@ El crud tiene una serie de motedos que son los siguiente:
 
 ## Directorios de laravel
 
-- App/Models Modelo de fruta
-- App/Http/Controllers Controlador de fruta
-- routes/web.php Rutas de los controladores
-- resource/views Vista de las fruteria y los código html y css de esta.
+- [Modelo de fruta](https://github.com/jmarrieta98/Fruteria-Laravel/tree/master/App/Models)
+- [Controlador de fruta]((https://github.com/jmarrieta98/Fruteria-Laravel/tree/master/App/Http/Controllers)
+- [Rutas de los controladores](https://github.com/jmarrieta98/Fruteria-Laravel/tree/master/routes.web.php)
+- [Vista de las fruteria y los código html y css de esta](https://github.com/jmarrieta98/Fruteria-Laravel/tree/master/resources/views)
